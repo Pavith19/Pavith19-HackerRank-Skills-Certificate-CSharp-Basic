@@ -19,7 +19,7 @@ Welcome to the HackerRank-Skills-Certificate-CSharp-Basic repository! This repos
 
 ## Personal HackerRank Profile
 
-[View Profile](https://www.hackerrank.com/profile/AhsanTausif)
+[View Profile](https://www.hackerrank.com/profile/Pavith_DB)
 
 ## HackerRank C# (Basic) Skill Certification
 
